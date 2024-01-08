@@ -4,16 +4,16 @@ body {
 }
 
 ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 li {
-  list-style:none;
+  list-style: none;
 }
 
 input,button{
-  outline:none;
+  outline: none;
 }
 
 /* Basic Style */
@@ -159,14 +159,14 @@ input,button{
 
 /* Edit Task */
 .task__edit {
-  display:none
+  display: none
 }
 
 .todos__item-change .task__edit {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .todos__item-change .todos__label {
-  display:none;
+  display: none;
 }
