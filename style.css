@@ -31,7 +31,7 @@ button{
   text-align: right;
 }
 
-.about img {
+.about__image {
   width: 100%;
 }
 
@@ -142,13 +142,13 @@ button{
   width: 226px;
 }
 
-.todos__delete-button img {
+.todos__delete-button_image {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-.todos__delete-button img:hover {
+.todos__delete-button_image:hover {
   transform: rotateZ(0);
 }
 
