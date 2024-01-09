@@ -72,7 +72,7 @@ button{
 }
 
 .button:hover {
-  color: #3a3A3a;
+  color: #3a3a3a;
 }
 /* Heading */
 .todos__title,
@@ -153,7 +153,7 @@ button{
 }
 
 /* Completed */
-.todos__list--compleated .todos__label {
+.todos__compleated .todos__label {
   text-decoration: line-through;
   color: #888;
 }
